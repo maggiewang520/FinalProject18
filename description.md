@@ -43,3 +43,8 @@ Excellent work will include:
 ## Alternatives
 
 If you would like to work on an alternate project, please see me with a proposal for your project as soon as possible
+
+## Maggie's Project
+
+"Fighting Adventure - Youtubers + Celebrities Edition!"
+This adventure game takes the player around the far away land of Los Angeles - where youtubers and celebrities spawn - to the houses of these people to collect power ups and allies and etc for an EPIC battle as the finale!
